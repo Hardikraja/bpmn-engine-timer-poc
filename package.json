@@ -1,1 +1,1 @@
-{\n  \"name\": \"bpmn-engine-timer-poc\",\n  \"version\": \"1.0.0\",\n  \"dependencies\": {\n    \"bpmn-engine\": \"^6.0.0\"\n  }\n}
+{"name":"bpmn-engine-timer-poc","version":"1.0.0","description":"Testing bpmn-engine timer pause/resume functionality","main":"poc-timer-pause-resume.js","type":"module","scripts":{"start":"node poc-timer-pause-resume.js","test":"echo \"Error: no test specified\" && exit 1"},"keywords":["bpmn","timer","pause","resume"],"author":"Hardikraja","license":"MIT","dependencies":{"bpmn-engine":"^6.0.0"}}
