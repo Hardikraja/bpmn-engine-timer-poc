@@ -1,0 +1,1 @@
+{\n  \"name\": \"bpmn-engine-timer-poc\",\n  \"version\": \"1.0.0\",\n  \"dependencies\": {\n    \"bpmn-engine\": \"^6.0.0\"\n  }\n}
